@@ -3,7 +3,8 @@
 ### Objective
 เขียนแอพดึงข้อมูลจาก Blogger โดยใช้ Blogger API เพื่อแสดงข้อมูลบนแอพแอนดรอยด์ โดยจะดึงข้อมูลบทความที่มีอยู่ในบล็อกๆหนึ่ง โดยจะแสดงภาพ Header และชื่อบทความของบล็อกนั้นๆ สามารถใช้ไลบรารีอะไรก็ได้ตามใจชอบ
 
-###### Preview
+###### Example
+![Example](https://raw.githubusercontent.com/Nextzy/AndroidDevChallenge/master/images/example.jpg)
 
 
 ###### Time limit
