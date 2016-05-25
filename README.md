@@ -1,20 +1,16 @@
 # AndroidDevChallenge
 
 ### Objective
-เขียนแอพดึงข้อมูลจาก Blogger โดยใช้ Blogger API เพื่อแสดงข้อมูลบนแอพแอนดรอยด์ โดยจะดึงข้อมูลบทความที่มีอยู่ในบล็อกๆหนึ่ง โดยจะแสดงภาพ Header และชื่อบทความของบล็อกนั้นๆ สามารถใช้ไลบรารีอะไรก็ได้ตามใจชอบ
-
 You are required to create a complete Android App that can show information from a blog using Blogger API. 
 Required fields usage including header pictures and blog titles. You can use any libraries however you prefer.
 
 ###### Special Requirement
-ถ้าบทความนั้นๆมีภาพ Header อยู่ด้วย ให้แสดงภาพซ้อนอยู่ข้างหลังแล้วมีชื่อบทความทับอยู่ข้างบน กรณีที่บทความนั้นไม่มีภาพ Header ให้แสดงชื่อบทความเพียงอย่างเดียว
 Some articles will have a header picture, you are required to put the picture behide the article title. Otherwise, you can just show only the article title.
 ![Special Requirement](https://raw.githubusercontent.com/Nextzy/AndroidDevChallenge/master/images/example.jpg)
 
 
 ###### Time limit
 ```
-1 ชั่วโมง
 1 hour
 ```
 
