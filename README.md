@@ -6,6 +6,7 @@ Required fields usage including header pictures and blog titles. You can use any
 
 ###### Special Requirement
 Some articles will have a header picture, you are required to put the picture behide the article title. Otherwise, you can just show only the article title.
+
 ![Special Requirement](https://raw.githubusercontent.com/Nextzy/AndroidDevChallenge/master/images/example.jpg)
 
 
